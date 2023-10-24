@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaeMoonshard
-- 🌱 I’m currently learning C++, Java and assembly language
+- 🌱 I’m currently learning C++, Java and Python
 - 💞️ Nice to meet you
 
 <!---
